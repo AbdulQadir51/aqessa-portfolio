@@ -4,7 +4,7 @@ import React from 'react';
 
 export default function Nav({ currentPage, handlePageChange }) {
     return (
-        <nav className="navbar navbar-default">
+    <nav className="navbar navbar-default">
       <div className="container">
         <div className="navbar-header">
           <button type="button" className="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">

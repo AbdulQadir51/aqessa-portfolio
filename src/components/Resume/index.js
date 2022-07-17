@@ -77,17 +77,17 @@ export default function Resume(){
                 <h2>Skills</h2>
                 <h3>HTML/CSS</h3>
                 <div className="progress">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" >
+                  <div className="progress-bar" style={{width: "75%"}} role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" >
                   </div>
                 </div>
                 <h3>NodeJS</h3>
                 <div className="progress">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" >
+                  <div className="progress-bar" style={{width: "90%"}} role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" >
                   </div>
                 </div>
                 <h3>JavaScript</h3>
                 <div className="progress">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" >
+                  <div className="progress-bar" style={{width: "80%"}} role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" >
                   </div>
                 </div>
               </div>
