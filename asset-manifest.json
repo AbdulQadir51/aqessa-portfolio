@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/aqessa-portfolio/static/css/main.064b310f.css",
+    "main.js": "/aqessa-portfolio/static/js/main.43b32d46.js",
+    "static/js/787.1f11dfe9.chunk.js": "/aqessa-portfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/project-1.png": "/aqessa-portfolio/static/media/project-1.d0976c344b575968137a.png",
+    "static/media/project-2.png": "/aqessa-portfolio/static/media/project-2.e88291f999a35a0763a5.png",
+    "static/media/fa-solid-900.ttf": "/aqessa-portfolio/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/fa-brands-400.ttf": "/aqessa-portfolio/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/fa-solid-900.woff2": "/aqessa-portfolio/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/glyphicons-halflings-regular.svg": "/aqessa-portfolio/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/fa-brands-400.woff2": "/aqessa-portfolio/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/fa-regular-400.ttf": "/aqessa-portfolio/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/aq.jpeg": "/aqessa-portfolio/static/media/aq.83b9a2d66c23cfc6f84a.jpeg",
+    "static/media/glyphicons-halflings-regular.ttf": "/aqessa-portfolio/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/project-4.jpg": "/aqessa-portfolio/static/media/project-4.cdfcab2ee34740fbd981.jpg",
+    "static/media/project-3.jpg": "/aqessa-portfolio/static/media/project-3.6a0cdb48c0d69e697f31.jpg",
+    "static/media/fa-regular-400.woff2": "/aqessa-portfolio/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/glyphicons-halflings-regular.woff": "/aqessa-portfolio/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/aqessa-portfolio/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/aqessa-portfolio/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/fa-v4compatibility.ttf": "/aqessa-portfolio/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/aqessa-portfolio/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "index.html": "/aqessa-portfolio/index.html",
+    "main.064b310f.css.map": "/aqessa-portfolio/static/css/main.064b310f.css.map",
+    "main.43b32d46.js.map": "/aqessa-portfolio/static/js/main.43b32d46.js.map",
+    "787.1f11dfe9.chunk.js.map": "/aqessa-portfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.064b310f.css",
+    "static/js/main.43b32d46.js"
+  ]
+}
