@@ -1,9 +1,13 @@
 import React from 'react';
-
+import myresume from '../../assets/resume/Abdul Qadir CV.pdf'
 export default function Resume(){
     return (
+        
     <section id="resume" className="cv-block info">
       <div className="container">
+        <div className="text-right">
+      <a className='btn btn-primary' href={myresume} target="_blank"  rel="noopener noreferrer">Dowload my Resume</a>
+      </div>
         <div className="work-experience group" id="work-experience">
           <h2 className="text-center">Work Experience</h2>
           <div className="item">
