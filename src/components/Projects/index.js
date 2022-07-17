@@ -25,6 +25,7 @@ export default function Projects() {
           <a className="box zoom" rel="noreferrer" target="_blank" href="https://teamgta.github.io/GetawayfromGTA/">
             <img src={project1_img} alt="teamgta" />
             <div className="text">
+            <a className="nav-link" style={{fontSize:"50px"}} rel="noreferrer" target="_blank" href="https://github.com/TeamGTA/GetawayfromGTA" title="Github"><i className="fab fa-github"></i></a>
               <h1>Getaway from GTA</h1>
             </div>
           </a>
@@ -34,6 +35,7 @@ export default function Projects() {
             <div className="box zoom">
               <img src={project2_img} alt="Jacked In The Box" />
               <div className="text">
+            <a className="nav-link" style={{fontSize:"50px"}} rel="noreferrer" target="_blank" href="https://github.com/project2bootcamp/JackedInTheBox" title="Github"><i className="fab fa-github"></i></a>
                 <h1>Jacked In The Box</h1>
               </div>
             </div>
@@ -43,6 +45,7 @@ export default function Projects() {
           <div className="box zoom">
             <img src={project3_img} alt="Restaurant Website" />
             <div className="text">
+            <a className="nav-link" style={{fontSize:"50px"}} rel="noreferrer" target="_blank" href="https://github.com/AbdulQadir51" title="Github"><i className="fab fa-github"></i></a>
               <h1>Restaurant Website</h1>
             </div>
           </div>
@@ -51,6 +54,7 @@ export default function Projects() {
           <div className="box zoom">
             <img src={project4_img} alt="E-Commerce Website" />
             <div className="text">
+            <a className="nav-link" style={{fontSize:"50px"}} rel="noreferrer" target="_blank" href="https://github.com/AbdulQadir51" title="Github"><i className="fab fa-github"></i></a>
               <h1>E-Commerce Website</h1>
             </div>
           </div>
