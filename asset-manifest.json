@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/aqessa-portfolio/static/css/main.064b310f.css",
-    "main.js": "/aqessa-portfolio/static/js/main.43b32d46.js",
+    "main.js": "/aqessa-portfolio/static/js/main.56842810.js",
     "static/js/787.1f11dfe9.chunk.js": "/aqessa-portfolio/static/js/787.1f11dfe9.chunk.js",
     "static/media/project-1.png": "/aqessa-portfolio/static/media/project-1.d0976c344b575968137a.png",
     "static/media/project-2.png": "/aqessa-portfolio/static/media/project-2.e88291f999a35a0763a5.png",
     "static/media/fa-solid-900.ttf": "/aqessa-portfolio/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/Abdul Qadir CV.pdf": "/aqessa-portfolio/static/media/Abdul Qadir CV.ba2edbcb60b4d320eaf8.pdf",
     "static/media/fa-brands-400.ttf": "/aqessa-portfolio/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
     "static/media/fa-solid-900.woff2": "/aqessa-portfolio/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
     "static/media/glyphicons-halflings-regular.svg": "/aqessa-portfolio/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
@@ -23,11 +24,11 @@
     "static/media/fa-v4compatibility.woff2": "/aqessa-portfolio/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
     "index.html": "/aqessa-portfolio/index.html",
     "main.064b310f.css.map": "/aqessa-portfolio/static/css/main.064b310f.css.map",
-    "main.43b32d46.js.map": "/aqessa-portfolio/static/js/main.43b32d46.js.map",
+    "main.56842810.js.map": "/aqessa-portfolio/static/js/main.56842810.js.map",
     "787.1f11dfe9.chunk.js.map": "/aqessa-portfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.064b310f.css",
-    "static/js/main.43b32d46.js"
+    "static/js/main.56842810.js"
   ]
 }
