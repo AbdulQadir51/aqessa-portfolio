@@ -44,6 +44,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## Deployed Application Link
+https://abdulqadir51.github.io/aqessa-portfolio/
 
 ## Screenshots
 
@@ -51,3 +53,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![screenshot 2](public/screenshot2.png) 
 ![screenshot 3](public/screenshot3.png) 
 ![screenshot 4](public/screenshot4.png) 
+
