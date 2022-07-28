@@ -1,7 +1,7 @@
 import React from 'react';
 import project1_img from '../../assets/images/project-1.png';
 import project2_img from '../../assets/images/project-2.png';
-import project3_img from '../../assets/images/project-3.jpg';
+import project3_img from '../../assets/images/project-3.png';
 import project4_img from '../../assets/images/project-4.jpg';
 
 export default function Projects() {
@@ -42,13 +42,13 @@ export default function Projects() {
           </a>
         </div>
         <div className="col-md-6 project">
-          <div className="box zoom">
-            <img src={project3_img} alt="Restaurant Website" />
+          <a className="box zoom" href="https://lit-savannah-41865.herokuapp.com/">
+            <img src={project3_img} alt="Smart Shop" />
             <div className="text">
-            <a className="nav-link" style={{fontSize:"50px"}} rel="noreferrer" target="_blank" href="https://github.com/AbdulQadir51" title="Github"><i className="fab fa-github"></i></a>
-              <h1>Restaurant Website</h1>
+            <a className="nav-link" style={{fontSize:"50px"}} rel="noreferrer" target="_blank" href="https://github.com/Project-3-Group-9/smart-shop" title="Github"><i className="fab fa-github"></i></a>
+              <h1>Smart Shop</h1>
             </div>
-          </div>
+          </a>
         </div>
         <div className="col-md-6 project">
           <div className="box zoom">
