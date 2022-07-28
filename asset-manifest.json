@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/aqessa-portfolio/static/css/main.064b310f.css",
-    "main.js": "/aqessa-portfolio/static/js/main.4295c8a6.js",
+    "main.js": "/aqessa-portfolio/static/js/main.3cf4b9d2.js",
     "static/js/787.1f11dfe9.chunk.js": "/aqessa-portfolio/static/js/787.1f11dfe9.chunk.js",
     "static/media/project-1.png": "/aqessa-portfolio/static/media/project-1.d0976c344b575968137a.png",
+    "static/media/project-3.png": "/aqessa-portfolio/static/media/project-3.1a5aa11b4e1ace359f76.png",
     "static/media/project-2.png": "/aqessa-portfolio/static/media/project-2.e88291f999a35a0763a5.png",
     "static/media/fa-solid-900.ttf": "/aqessa-portfolio/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
     "static/media/Abdul Qadir CV.pdf": "/aqessa-portfolio/static/media/Abdul Qadir CV.ba2edbcb60b4d320eaf8.pdf",
@@ -15,7 +16,6 @@
     "static/media/aq.jpeg": "/aqessa-portfolio/static/media/aq.83b9a2d66c23cfc6f84a.jpeg",
     "static/media/glyphicons-halflings-regular.ttf": "/aqessa-portfolio/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
     "static/media/project-4.jpg": "/aqessa-portfolio/static/media/project-4.cdfcab2ee34740fbd981.jpg",
-    "static/media/project-3.jpg": "/aqessa-portfolio/static/media/project-3.6a0cdb48c0d69e697f31.jpg",
     "static/media/fa-regular-400.woff2": "/aqessa-portfolio/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
     "static/media/glyphicons-halflings-regular.woff": "/aqessa-portfolio/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
     "static/media/glyphicons-halflings-regular.eot": "/aqessa-portfolio/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
@@ -24,11 +24,11 @@
     "static/media/fa-v4compatibility.woff2": "/aqessa-portfolio/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
     "index.html": "/aqessa-portfolio/index.html",
     "main.064b310f.css.map": "/aqessa-portfolio/static/css/main.064b310f.css.map",
-    "main.4295c8a6.js.map": "/aqessa-portfolio/static/js/main.4295c8a6.js.map",
+    "main.3cf4b9d2.js.map": "/aqessa-portfolio/static/js/main.3cf4b9d2.js.map",
     "787.1f11dfe9.chunk.js.map": "/aqessa-portfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.064b310f.css",
-    "static/js/main.4295c8a6.js"
+    "static/js/main.3cf4b9d2.js"
   ]
 }
